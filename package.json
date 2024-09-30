@@ -27,6 +27,7 @@
     "mocha": "^10.7.3"
   },
   "dependencies": {
+    "braces": "^3.0.3",
     "chokidar": "^4.0.1",
     "micromatch": "^4.0.8",
     "watchpack": "^2.4.2",
